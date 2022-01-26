@@ -32,7 +32,7 @@ We&#39;ll write code in Jupyter notebooks using the Anaconda Python distribution
 
 You should plan to bring a laptop\*\* to all class sessions.
 
-\*\*NOTE TO WINDOWS USERS: Most exercises and lectures will be OS-agnostic, but command-line tools will be demonstrated in a Unix-like terminal. Windows users can use the Windows command prompt if they choose, but instructor support will be limited. Instead, I recommend installing one of the following to gain access to a Unix-like shell: [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about), [Cygwin](https://www.cygwin.com/), [Git SCM](https://gitforwindows.org/), or [PyCharm](https://www.jetbrains.com/pycharm/download/).
+\*\*NOTE TO WINDOWS USERS: Most exercises and lectures will be OS-agnostic, but command-line tools will be demonstrated in a Unix-like terminal. Windows users can use the Windows command prompt if they choose, but instructor support will be limited. Instead, I recommend installing one of the following to gain access to a Unix-like shell: [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/about), [Cygwin](https://www.cygwin.com/), [Git Bash](https://gitforwindows.org/), or [PyCharm](https://www.jetbrains.com/pycharm/download/).
 
 ### Campus Resources Related to this Course
 [Join the Course Slack Channel](https://join.slack.com/t/cp255-spring22/shared_invite/zt-11qxr2cc7-OdkKFxB3d6SpA97EJlOF2A)
@@ -53,7 +53,7 @@ Assignments are designed to build a degree of mastery of skills and will be used
 
 This course has readings associated with nearly every class meeting. These are _suggested_ readings, unless otherwise specified. You will not be quizzed on them, and they may or may not be referenced in class. They are, however, **strongly recommended**. They have been thoughtfully compiled over the many years this course has been taught, and are designed to help you get the most of this course and make your final projects a success.
 
-In addition to the readings, the Course Schedule (see below) specifies several other assignments which, unless explicitly stated, will not be collected. They will, however, be used for the following: 1) to facilitate discussion/break-out groups in class; 2) to inspire final project ideas; and 3) to ensure that you make steady progress on your final projects throughout the course of the semester. In some cases there will be class time designated for working on these ungraded assignments, but not always. It is in your own best interest, and that of your fellow students, that you keep up with them.
+In addition to the readings, the Course Schedule (see below) specifies several other exercises which, unless explicitly stated, will not be collected. They will, however, be used for the following: 1) to facilitate discussion/break-out groups in class; 2) to inspire final project ideas; and 3) to ensure that you make steady progress on your final projects throughout the course of the semester. In some cases there will be class time designated for working on these ungraded exercises, but not always. It is in your own best interest, and that of your fellow students, that you keep up with them.
 
 ### Final Projects (75 pts)
 
@@ -153,7 +153,7 @@ The topics covered by this course are organized into the following seven (7) mod
 #### MODULE 1: FUNDAMENTALS OF PROGRAMMING
 
 - **Weds, Jan 19 -- Course Introduction:** Overview of the course, expectations, prerequisites, learning objectives, assignments and projects.
-  - Assignments
+  - Exercises
     - Install the Anaconda distribution of Python on your computer, and verify that it is working. Find your download [here](https://www.anaconda.com/products/individual).
     - Create a personal GitHub account using your Berkeley e-mail address.
     - Via bCourses, submit links to three (3) examples of interesting public/open datasets that you think you or your fellow students might be interested in exploring in the context of this class. In 2-3 sentences, describe their relevance to topics in transportation, housing, land use, urban design, etc. Show us something we haven&#39;t seen before – the American Community Survey doesn&#39;t count!
@@ -166,18 +166,19 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Mon, Jan 24 -- Intro to the Command-line:** Using a command-line interpreter; common syntax, programs, and arguments; accessing and navigating the file system; Python interpreters; conda environments; starting/stopping a Jupyter server; using Git; text editors
 
-  - Assignments
+  - Exercises
     - Create a CYPLAN255 GitHub repo and push your first commit.
 
-  - Readings:
+  - Readings
     - Command-line guides for [Windows](http://people.uncw.edu/pattersone/121/labs/L1_MSDOS_Primer.pdf) or [Unix-like](https://www.davidbaumgold.com/tutorials/command-line/) (MacOS/Linux)
     - Sections 1.1 and 1.3 of [Pro Git](https://git-scm.com/book/en/v2) by Chacon and Straub
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
 
 - **Weds, Jan 26 -- Git and GitHub:** Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
 
-  - Assignments
-    - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.
+  - Exercises
+    - Create your own github.io website by following [this](http://data94.org/resources/assets/homework/hw09/) helpful tutorial from the Data89 class at cal. For advanced users, take it one step further with a slightly more advanced version [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).
+       - _NOTE: although this is only listed as an "exercise" and not an "assignment", your final project will be submitted as a GitHub Pages website, so it would be wise to get started on this sooner than later._
 
   - Readings
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
@@ -190,6 +191,10 @@ The topics covered by this course are organized into the following seven (7) mod
 
   - Assignments
     - Assignment 1 released (due Sun, Feb 6)
+
+  - Exercises
+    - Re-read and work your way through "notebooks/lecture_03_intro_python_jupyter.ipynb"
+    - Continue to work your way through the GitHub Pages website tutorial.
 
   - Readings
     - Chapter 3 of [Python for Data Analysis](https://github.com/wesm/pydata-book)
@@ -219,7 +224,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Mon, Feb 14 💘 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
-  - Assignments
+  - Exercises
     - Find three (3) examples of interesting data visualizations and describe in 2-3 sentences what makes each of them good, bad, or misleading. Be prepared to talk about them in class.
 
   - Readings
@@ -265,7 +270,7 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Wed, Mar 2 -- Intro to Geospatial Data Analysis:** Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
 
-  - Assignments
+  - Exercises
     - Get familiar with OpenStreetMap by reading about it [here](https://wiki.osmfoundation.org/wiki/Main_Page), and contribute at least one (1) change to a Humanitarian OpenStreetMap (HOTOSM) project by following the HOTOSM [quickstart guide](https://tasks.hotosm.org/learn/quickstart).
 
   - Readings
@@ -277,7 +282,7 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Mon, Mar 7 -- FOSS tools for Geospatial Data Analysis:** Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
 
   - Assignment
-    - Project proposal assignment released (Due Sun, Mar 13)
+    - Project proposal assignment (Assignment 4) released (Due Sun, Mar 13)
 
   - Readings
     - [This](https://developmentseed.org/blog/2015-08-27-introduction-to-the-geo-command-line) great blog post from Development Seed (you can try to follow along with the tutorial on your computer but I think some of the links they use are not longer active)
@@ -291,7 +296,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - Chapters [6](https://geographicdata.science/book/notebooks/06_spatial_autocorrelation.html), [8](https://geographicdata.science/book/notebooks/08_point_pattern_analysis.html), and [9](https://geographicdata.science/book/notebooks/09_spatial_inequality.html) of Geographic Data Science with Python
 
-- **Mon, Mar 14 -- Intro to Network Analysis:** Graph theory;GTFS; Python tools for working with networks
+- **Mon, Mar 14 -- Intro to Network Analysis:** Graph theory; GTFS; Python tools for working with networks
 
   - Readings
     - Boeing, Geoff. &quot;OSMnx: New methods for acquiring, constructing, analyzing, and visualizing complex street networks.&quot; _Computers, Environment and Urban Systems_ 65 (2017): 126-139. [https://doi.org/10.1016/j.compenvurbsys.2017.05.004](https://doi.org/10.1016/j.compenvurbsys.2017.05.004)
