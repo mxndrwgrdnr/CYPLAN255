@@ -1,3 +1,0 @@
-# Assignments
-
-Class assignments will be posted here in their own directories (e.g. assignments/assignment_1/). To download the files, you'll need to [sync](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) your fork to merge in the changes from the main ("upstream") class repo. To submit your completed assignments, you'll open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) from your fork to the upstream repo.
