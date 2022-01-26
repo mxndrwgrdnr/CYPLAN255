@@ -177,7 +177,8 @@ The topics covered by this course are organized into the following seven (7) mod
 - **Weds, Jan 26 -- Git and GitHub:** Principles of distributed version control; repositories; commits; branches; forks; making a GitHub pages website
 
   - Exercises
-    - Create your own github.io website by following [this](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll) tutorial.  <-- NOTE: although this is only listed as an "exercise" and not an "assignment", your final project will be submitted as a GitHub Pages website, so it would be wise to get started on this sooner than later.
+    - Create your own github.io website by following [this](http://data94.org/resources/assets/homework/hw09/) helpful tutorial from the Data89 class at cal. For advanced users, take it one step further with a slightly more advanced version [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll).
+       - _NOTE: although this is only listed as an "exercise" and not an "assignment", your final project will be submitted as a GitHub Pages website, so it would be wise to get started on this sooner than later._
 
   - Readings
     - [https://docs.github.com/en/get-started/using-git/about-git](https://docs.github.com/en/get-started/using-git/about-git)
