@@ -4,6 +4,7 @@ course repo for material related to CYPLAN 255 at UC Berkeley, Spring 2022
 ## Getting started
 
 - Please fill out the [Pre-Semester Survey](https://forms.gle/t7WZFLVF7EbEBE3t7)!
+- Check out the [Wiki](https://github.com/mxndrwgrdnr/CYPLAN255/wiki)!
 - Skip to [class schedule](https://github.com/mxndrwgrdnr/CYPLAN255#topics--course-schedule)
 
 ## Syllabus
@@ -198,13 +199,13 @@ The topics covered by this course are organized into the following seven (7) mod
 
   - Readings
     - Chapter 3 of [Python for Data Analysis](https://github.com/wesm/pydata-book)
-    - Chapters 2, 4 of[Dive Into Python 3](http://www.diveintopython3.net/)
+    - Chapters 2, 4 of [Dive Into Python 3](http://www.diveintopython3.net/)
     - Chapters 8, 10, 11, 12 of [Think Python](http://www.greenteapress.com/thinkpython/)
 
 - **Wed, Feb 2 Programming Logic:** Control flow in Python (conditional logic, loops, functions)
   - Readings
     - Chapters 2, 3, 5-7 of [Think Python](http://www.greenteapress.com/thinkpython/)
-    - Chapters 1, 7 of[Dive Into Python 3](http://www.diveintopython3.net/)
+    - Chapters 1, 7 of [Dive Into Python 3](http://www.diveintopython3.net/)
 
 - **Mon, Feb 7 Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
   - Assignments
