@@ -1,3 +1,0 @@
-# Notebooks
-
-Demo notebooks and exercises from lecture will be posted here. To download the files, you'll need to [sync](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) your fork to merge in the changes from here, the main ("upstream") class repo. Feel free to make any changes you like to these files as long as you are working on the version you have in your own fork, but please **do not include any of these changes in the pull requests you submit for your assignments**. If you have any desire to push the changes you make to these notebooks to the remote copy of your fork, I **strongly recommend** you do so in a branch other than the one you will use to submit assignments.
