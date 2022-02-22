@@ -238,7 +238,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Exercises
     - Spend 2-3 hours working through notebooks 7 and 8 on your own
   - Assignments
-    - Assignment 3 released (due Sunday, Feb 27)
+    - Assignment 3 released (due Tues, March 1)
 
 - **Wed, Feb 23 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
