@@ -256,6 +256,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - Interactive Bokeh [tutorials](https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-th9hef96/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
     - [Plotly](https://plotly.com/python/) tutorial/documentation
     - Streamlit [tutorial](https://medium.com/analytics-vidhya/web-application-in-10-minutes-with-streamlit-99685e3350e0)
+    - Comparison of Python dashboarding libraries: [link](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57)
 
 -----
 
