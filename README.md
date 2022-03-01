@@ -15,7 +15,7 @@ Spring 2022
 
 | | |
 |:--|:--|
-|**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br>Office hours: Tue 1-3pm / sign-up [here](https://calendly.com/maxgardner/15min)|
+|**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br>Office hours: Mon 3-4 pm (IRL @ 410b Wurster), Tue 2:30-3:30pm (remote, sign-up [here](https://calendly.com/maxgardner/15min))|
 | **GSI**| Irene Farah / [irenef@berkeley.edu](mailto:irenef@berkeley.edu) <br>Office hours: Thu 2-4pm / sign-up [here](https://calendly.com/irenefarah/15min)|
 |**Details**| Meeting times: Mon/Wed 9:30-11am (&quot;Berkeley time&quot;) <br> Meeting location: 102 Bauer Wurster Auditorium / [Zoom](https://berkeley.zoom.us/j/97650379315?pwd=ZVRGRmttTUYwdHlObmZhUzNNZWxEQT09) (as needed) <br> Course website: [https://bcourses.berkeley.edu/courses/1511685](https://bcourses.berkeley.edu/courses/1511685) <br> Course GitHub repository: [https://github.com/mxndrwgrdnr/CYPLAN255](https://github.com/mxndrwgrdnr/CYPLAN255) <br> Prerequisites: CP201A, CP204C, or equivalent experience <br> Grading: out of 100 pts – attendance (10%) / assignments (15%) / project (75%)|
 
