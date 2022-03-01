@@ -15,7 +15,7 @@ Spring 2022
 
 | | |
 |:--|:--|
-|**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br>Office hours: Tue 1-3pm / sign-up [here](https://calendly.com/maxgardner/15min)|
+|**Instructor**| Max Gardner / [magardner@berkeley.edu](mailto:magardner@berkeley.edu) <br>Office hours: Mon 3-4 pm (IRL @ 410b Wurster), Tue 2:30-3:30pm (remote, sign-up [here](https://calendly.com/maxgardner/15min))|
 | **GSI**| Irene Farah / [irenef@berkeley.edu](mailto:irenef@berkeley.edu) <br>Office hours: Thu 2-4pm / sign-up [here](https://calendly.com/irenefarah/15min)|
 |**Details**| Meeting times: Mon/Wed 9:30-11am (&quot;Berkeley time&quot;) <br> Meeting location: 102 Bauer Wurster Auditorium / [Zoom](https://berkeley.zoom.us/j/97650379315?pwd=ZVRGRmttTUYwdHlObmZhUzNNZWxEQT09) (as needed) <br> Course website: [https://bcourses.berkeley.edu/courses/1511685](https://bcourses.berkeley.edu/courses/1511685) <br> Course GitHub repository: [https://github.com/mxndrwgrdnr/CYPLAN255](https://github.com/mxndrwgrdnr/CYPLAN255) <br> Prerequisites: CP201A, CP204C, or equivalent experience <br> Grading: out of 100 pts – attendance (10%) / assignments (15%) / project (75%)|
 
@@ -216,7 +216,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Readings
     - Official Python docs on [Classes](https://docs.python.org/3/tutorial/classes.html)
   - Assignments
-    - Assignment 2 released (due Tues, Feb 15)
+    - Assignment 2 released (due Tues, Feb 20)
 
 - **Mon, Feb 14 💘 -- Data Analysis in Python:** NumPy arrays and matrices; Pandas Series and DataFrames; loading, displaying and exporting data; descriptive statistics; indexing and filtering
 
@@ -238,7 +238,7 @@ The topics covered by this course are organized into the following seven (7) mod
   - Exercises
     - Spend 2-3 hours working through notebooks 7 and 8 on your own
   - Assignments
-    - Assignment 3 released (due Sunday, Feb 27)
+    - Assignment 3 released (due Tues, March 1)
 
 - **Wed, Feb 23 -- Data Visualization Pt. I:** Data viz. for good and evil; use Matplotlib and Seaborn to create static images; dimensionality of data; continuous vs. categorical data; univariate distributions
 
@@ -256,6 +256,7 @@ The topics covered by this course are organized into the following seven (7) mod
     - Interactive Bokeh [tutorials](https://hub.gke2.mybinder.org/user/bokeh-bokeh-notebooks-th9hef96/notebooks/tutorial/00%20-%20Introduction%20and%20Setup.ipynb)
     - [Plotly](https://plotly.com/python/) tutorial/documentation
     - Streamlit [tutorial](https://medium.com/analytics-vidhya/web-application-in-10-minutes-with-streamlit-99685e3350e0)
+    - Comparison of Python dashboarding libraries: [link](https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57)
 
 -----
 
