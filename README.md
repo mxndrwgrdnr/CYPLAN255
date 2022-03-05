@@ -263,6 +263,8 @@ The topics covered by this course are organized into the following seven (7) mod
 #### MODULE 4: OPEN DATA AND APIs
 
 - **Wed, Mar 2 -- Intro to APIs:** What&#39;s in an API; performing queries; authentication; Socrata;
+  - Assignments
+    - Project proposal assignment (Assignment 4) released (Due Sun, Mar 13) 
 
   - Readings
     - Red Hat guide to APIs: [here](https://www.redhat.com/en/topics/api/what-are-application-programming-interfaces)
@@ -283,6 +285,8 @@ The topics covered by this course are organized into the following seven (7) mod
 #### MODULE 5: WORKING WITH GEOSPATIAL DATA
 
 - **Wed, Mar 9 -- Intro to Geospatial Data Analysis:** Vector vs. raster; coordinate reference systems and projections; spatial data types and file formats; spatial indexing; common spatial transformations
+  - Assignments
+    - Keep working on your project proposal analyses.
 
   - Exercises
     - Get familiar with OpenStreetMap by reading about it [here](https://wiki.osmfoundation.org/wiki/Main_Page), and contribute at least one (1) change to a Humanitarian OpenStreetMap (HOTOSM) project by following the HOTOSM [quickstart guide](https://tasks.hotosm.org/learn/quickstart).
@@ -294,9 +298,6 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://tasks.hotosm.org/learn/quickstart](https://tasks.hotosm.org/learn/quickstart)
 
 - **Mon, Mar 14 -- FOSS tools for Geospatial Data Analysis:** Survey of open source tools for manipulating geospatial data from the command-line, a Python session, a browser, or your desktop.
-
-  - Assignment
-    - Project proposal assignment (Assignment 4) released (Due Sun, Mar 20)
 
   - Readings
     - [This](https://developmentseed.org/blog/2015-08-27-introduction-to-the-geo-command-line) great blog post from Development Seed (you can try to follow along with the tutorial on your computer but I think some of the links they use are not longer active)
@@ -344,8 +345,8 @@ The topics covered by this course are organized into the following seven (7) mod
 
 - **Wed, Apr 6 -- Building Interactive Maps:** Survey of tools and technology for creating dynamic maps in Python and other open source frameworks
 
-  - Assignments
-    - Bonus notebook on visualizing big geo data
+  - Exercises
+    - Work through the bonus notebook on visualizing big geo data
 
   - Readings
     - [http://www.liedman.net/tiled-maps/](http://www.liedman.net/tiled-maps/)
@@ -354,12 +355,6 @@ The topics covered by this course are organized into the following seven (7) mod
     - [https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/](https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/)
     - [https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663](https://blog.mapbox.com/mapping-millions-of-dots-77eead9bd663)
     - [http://andrewgaidus.com/Dot\_Density\_County\_Maps/](http://andrewgaidus.com/Dot_Density_County_Maps/)
-
-- **Mon, Apr 11 -- Misc. Maps:** Visualizing big geo-data; dot-density maps;
-
-  - Readings
-    
-
 -----
 
 #### MODULE 7: STATISTICAL ANALYSIS + MACHINE LEARNING
