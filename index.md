@@ -1,5 +1,7 @@
 FOO
 
+<iframe>plot.html</iframe>
+
 Check out my [chart](plot.html)!
 
 <div>                        <script type="text/javascript">window.PlotlyConfig = {MathJaxConfig: 'local'};</script>
