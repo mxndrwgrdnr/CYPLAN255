@@ -1,6 +1,6 @@
 FOO
 
-<iframe>plot.html</iframe>
+<iframe src="plot.html"></iframe>
 
 Check out my [chart](plot.html)!
 
